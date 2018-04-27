@@ -1,0 +1,2 @@
+# Webtemp
+Static website template
